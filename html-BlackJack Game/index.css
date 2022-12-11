@@ -1,0 +1,23 @@
+body {
+  background-image: url("png-transparent-wooden-background-wooden-table-wooden-background-board.png  ");
+  background-size: cover;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+
+h1 {
+   
+    color: goldenrod;
+  
+}
+message-el {
+font-style: italic;
+}
+button {
+   color: red;
+  width: 150px;
+  background: goldenrod;
+  margin-bottom: 4px;
+}
